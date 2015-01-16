@@ -1,6 +1,5 @@
 # Python Gimp Plugins #
-
-# Collection of usable Python-Fu scritps #
+Collection of usable Python-Fu scritps
 
 ## Description ##
 
