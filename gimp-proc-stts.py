@@ -159,8 +159,8 @@ register(
     blurb = "Image size reduction for site http://transphoto.ru",
     help = "Step-by-step decrease of image size with applying filter \"Unsharp mask\"",
     author = "Charles Malaheenee",
-    copyright = "Charles Malaheenee (http://github.com/Malaheenee)",
-    date = "09.11.2014",
+    copyright = "Charles Malaheenee (http://github.com/malaheenee)",
+    date = "20.11.2016",
     label = "<Image>/Filters/STTS processing...",
     imagetypes = "*",
     params = [
