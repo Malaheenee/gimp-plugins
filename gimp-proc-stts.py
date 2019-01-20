@@ -167,8 +167,8 @@ register(
         (PF_OPTION, "side", "Target side", 0, ["Width", "Height"]),
         (PF_INT, "size", "Size (in pixels)", 1200),
         (PF_ADJUSTMENT, "steps", "Number of steps", 0, (2, 10, 1)),
-        (PF_SPINNER, "radius", "Unsharp mask: radius", 3, (min_radius, max_radius, 0.1)),
-        (PF_SPINNER, "amount", "Unsharp mask: amount", 0.3, (min_amount, max_amount, 0.01)),
+        (PF_SPINNER, "radius", "Unsharp mask: radius", 2, (min_radius, max_radius, 0.1)),
+        (PF_SPINNER, "amount", "Unsharp mask: amount", 0.2, (min_amount, max_amount, 0.01)),
         (PF_SPINNER, "threshold", "Unsharp mask: threshold", 0, (min_threshold, max_threshold, 1)),
         (PF_TOGGLE, "new_image", "Output to new image", False)
     ],
